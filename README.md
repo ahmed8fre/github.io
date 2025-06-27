@@ -17,12 +17,12 @@ Driven by a passion for technical challenges and a commitment to quality, I stri
 I offer a comprehensive range of software development services meticulously tailored to meet your unique requirements:
 
 * **Cross-Platform Application Development:**
-    * Designing and building high-performance, appealing applications for both iOS and Android, ensuring broad reach to your audience.
+    * Designing and building high-performance, appealing applications for both [android ,windows ,linux ,ios'soon'], ensuring broad reach to your audience.
     * Utilizing the latest frameworks and technologies to deliver a seamless and intuitive user experience.
 
 * **Game Development:**
     * Creating immersive and entertaining game experiences for various platforms (e.g., mobile, PC).
-    * Developing 2D and 3D games with a focus on innovative mechanics and engaging graphics.
+    * Developing 3D games with a focus on innovative mechanics and engaging graphics.
 
 * **Custom Software Scripting:**
     * Automating repetitive tasks and streamlining complex operations to boost efficiency and reduce manual effort.
