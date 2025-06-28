@@ -33,3 +33,8 @@ I offer a comprehensive range of software development services meticulously tail
 ## 🌟 My Portfolio/Projects
 
 Below is a selection of my key projects that showcase my capabilities and expertise. Feel free to explore each project in detail, and try some of the downloadable samples:
+
+* **Manzel App:**
+    * **Description:** A cross-platform application developed using Kivy and Python, showcasing our capabilities in building innovative and efficient software solutions. This app serves as a concept model for managing home-related tasks/information, aiming to demonstrate our agility in crafting intuitive user interfaces and appealing designs.
+    * **Explore the Project:** [Go to Manzel App GitHub Repository](https://github.com/ahmed8fre/manzel-app.git)
+    * **(Optional - Add after APK upload):** [Download the Demo Version (APK) here]([YOUR_APK_RELEASE_LINK_HERE](https://github.com/ahmed8fre/manzel-app/releases/download/manzel-app-demo/manzel-0.1.apk))
