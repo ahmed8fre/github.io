@@ -8,7 +8,7 @@ Crafting robust cross-platform applications, immersive games, and efficient soft
 
 Welcome to my portfolio! I am AHMAD, a dedicated software developer focused on delivering cutting-edge and innovative technological solutions.
 
-Driven by a passion for technical challenges and a commitment to quality, I strive to transform complex ideas into practical and effective digital products. My goal is to build strong, reliable, and scalable software solutions that meet my clients' needs and exceed their expectations.
+Driven by a passion for technical challenges and a commitment to quality, I strive to transform complex ideas into practical and effective digital products. My goal is to build strong, reliable, and scalable software solutions that meet my clients' needs and and exceed their expectations.
 
 ---
 
@@ -37,4 +37,11 @@ Below is a selection of my key projects that showcase my capabilities and expert
 * **Manzel App:**
     * **Description:** A cross-platform application developed using Kivy and Python, showcasing our capabilities in building innovative and efficient software solutions. This app serves as a concept model for managing home-related tasks/information, aiming to demonstrate our agility in crafting intuitive user interfaces and appealing designs.
     * **Explore the Project:** [Go to Manzel App GitHub Repository](https://github.com/ahmed8fre/manzel-app.git)
-    * ** [Download the Demo Version (APK) here](https://github.com/ahmed8fre/manzel-app/releases/download/manzel-app-demo/manzel-0.1.apk)
+    * **[Download the Demo Version (APK) here](https://github.com/ahmed8fre/manzel-app/releases/download/manzel-app-demo/manzel-0.1.apk)**
+
+* **Cafeteria Management System (Customer App):**
+    * **Description:** This is the customer-facing application, built with pre-populated dummy data. This approach eliminates the need for an active server connection, allowing you to seamlessly explore all features and functionalities immediately. We encourage you to try out the app and share your valuable feedback!
+    * **Explore the Project:** [Go to Cafeteria App GitHub Repository](https://github.com/ahmed8fre/YOUR-NEW-CAFETERIA-APP-REPO-NAME.git)
+    * **[Download the Demo Version (APK) here](https://github.com/ahmed8fre/YOUR-NEW-CAFETERIA-APP-REPO-NAME/releases/latest/download/app-release.apk)**
+
+---
