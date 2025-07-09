@@ -43,5 +43,6 @@ Below is a selection of my key projects that showcase my capabilities and expert
     * **Description:** This is the customer-facing application, built with pre-populated dummy data. This approach eliminates the need for an active server connection, allowing you to seamlessly explore all features and functionalities immediately. We encourage you to try out the app and share your valuable feedback!
     * **Explore the Project:** [Go to Cafeteria App GitHub Repository](https://github.com/ahmed8fre/cafeteria-app.git)
     * **[Download the Demo Version (APK) here](https://github.com/ahmed8fre/cafeteria-app/releases/download/0.0.1/cafeteria-0.1-arm64-v8a_armeabi-v7a-debug.apk)**
+    * * **[Watch the project demo video on YouTube](https://youtu.be/suLndQMbcmc?si=G34JtG-64uy_JnJu)**
 
 ---
